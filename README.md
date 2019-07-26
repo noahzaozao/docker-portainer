@@ -2,6 +2,7 @@
 
 ## pre-requirements
 
+- Centos 7
 - docker 18.09 with docker swarm
 
 ## create portainer_data
