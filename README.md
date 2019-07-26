@@ -4,6 +4,12 @@
 
 - docker 18.09 with docker swarm
 
+## create portainer_data
+
+```bash
+mkdir /mnt/data/portainer_data
+```
+
 ## create_network.sh
 
 ```bash
