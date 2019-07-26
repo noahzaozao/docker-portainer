@@ -1,5 +1,9 @@
 # docker-portainer
 
+## pre-requirements
+
+- docker 18.09 with docker swarm
+
 ## create_network.sh
 
 ```bash
