@@ -5,6 +5,13 @@
 - Centos 7
 - docker 18.09 with docker swarm
 
+## maintance
+
+```bash
+docker service update --image portainer/portainer portainer
+docker service update --image portainer/agent portainer_agent
+```
+
 ## create portainer_data
 
 ```bash
